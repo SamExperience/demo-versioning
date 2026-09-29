@@ -15,3 +15,7 @@ Practice repository for learning release versioning with **Git Flow** and **GitH
 3. The [release workflow](.github/workflows/release.yml) validates the tag (format, on `main`, greater than the previous one) and publishes a GitHub Release with auto-generated notes.
 
 Release notes are grouped by PR labels, see [release.yml](.github/release.yml).
+
+## Changelog
+
+See the [Releases](../../releases) page for the full list of changes per version.
